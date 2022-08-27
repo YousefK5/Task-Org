@@ -25,4 +25,4 @@
  ## Live URL
 
  
-Click [here](https://yousefk5.github.io/Task-Organizer/) to preview the live url.
+Click [here](https://yousefk5.github.io/Task-Org/) to preview the live url.
